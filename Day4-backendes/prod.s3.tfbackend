@@ -1,0 +1,3 @@
+bucket = "waiyan-s3-terraform"
+key = "04-backends/prod/state.tfstate"
+region = "us-east-1"
